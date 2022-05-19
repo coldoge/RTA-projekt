@@ -2,7 +2,11 @@ from bs4 import BeautifulSoup
 from typing import List
 import requests
 import pandas as pd
-from config import url, database_dict, number_of_pages
+from config import database_dict, number_of_pages, car_brand, car_model
+
+
+def create_link(car_brand_, car_model_):
+    return "https://www.otomoto.pl/osobowe/" + car_brand_ + "/" + car_model_ + "?page="
 
 
 def get_links(blank_url: str, number_of_pages_: int) -> List[str]:
@@ -28,10 +32,10 @@ def get_links(blank_url: str, number_of_pages_: int) -> List[str]:
 
 def get_dict(database_dict_: dict, list_of_url_: List[str]) -> None:
     """
-
-    :param database_dict_:
-    :param list_of_url_:
-    :return:
+    The function saves the data from each tested car from the url link list. Missing values are saved as "null".
+    Function generates finished database and saves it in data folder.
+    :param database_dict_: Dictionary with selected variables for the database
+    :param list_of_url_: List of links to specific cars
     """
     cars_added = 0
     number_of_links = len(list_of_url_) + 1
@@ -67,5 +71,5 @@ def get_dict(database_dict_: dict, list_of_url_: List[str]) -> None:
     car_dataframe.to_csv('data/car_dataframe_10obs.csv')
 
 
-list_of_url = get_links(url, number_of_pages)
+list_of_url = get_links(create_link(car_brand, car_model), number_of_pages)
 get_dict(database_dict, list_of_url)
