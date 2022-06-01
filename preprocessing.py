@@ -13,8 +13,9 @@ for zmienna in ['Kategoria', 'Marka pojazdu', 'Model pojazdu', 'Liczba drzwi', '
                 'Spalanie W Mieście']:
     cols.remove(zmienna)
 
-#wyrzucamy wiersze z brakami danych
+# wyrzucamy wiersze z brakami danych
 df = df[cols].dropna(axis=0)
+
 
 def extract_number_from_string(napis):
     return int(re.search('[\d ]+', napis).group(0).replace(' ', ''))
@@ -26,16 +27,17 @@ for zmienna in ['Cena', 'Rok produkcji', 'Przebieg', 'Pojemność skokowa', 'Moc
 for i in df.columns:
     print(df[i].value_counts())
 
-#wyrzucamy obserwacje kategoryczne z licznoscia mniejsza od 5
+# wyrzucamy obserwacje kategoryczne z licznoscia mniejsza od 5
 
 df = df[~df['Napęd'].isin(['Na tylne koła', '4x4 (dołączany ręcznie)'])]
 df = df[~df['Typ nadwozia'].isin(['SUV', 'Kompakt'])]
-df = df[df['Kolor']!='Bordowy']
+df = df[df['Kolor'] != 'Bordowy']
 
-#wyrzucamy moc rowna 1, jest to oczywisty buserlad
+# wyrzucamy nietypowe/bledne obserwacje
 
-df = df[df['Moc']!=1]
+df = df[df['Moc'] != 1]
 
 df = df.reset_index(drop=True)
-
+df['wiek'] = 2022 - df['Rok produkcji']
 df.to_csv('data/final_audi_a6_data.csv')
+
