@@ -1,0 +1,893 @@
+,Cena,Oferta od,Rok produkcji,Przebieg,Pojemność skokowa,Rodzaj paliwa,Moc,Skrzynia biegów,Napęd,Typ nadwozia,Kolor,Stan
+0,75900,Osoby prywatnej,2012,163000,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+1,133800,Firmy,2018,169800,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+2,288888,Firmy,2021,100,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Niebieski,Nowe
+3,119000,Osoby prywatnej,2018,162000,1984,Benzyna,252,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+4,17900,Osoby prywatnej,2005,232000,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Szary,Używane
+5,76200,Firmy,2014,175648,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+6,27000,Osoby prywatnej,2008,211328,1968,Diesel,170,Automatyczna,Na przednie koła,Sedan,Inny kolor,Używane
+7,254650,Firmy,2021,23406,1984,Benzyna,265,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+8,139900,Firmy,2017,135012,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+9,154900,Firmy,2016,142900,2967,Diesel,326,Automatyczna,4x4 (stały),Kombi,Czerwony,Używane
+10,220293,Firmy,2018,109900,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+11,99900,Firmy,2014,189000,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+12,194217,Firmy,2018,147000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+13,210000,Firmy,2020,14692,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+14,109900,Firmy,2018,169000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+15,34900,Osoby prywatnej,2007,231000,2967,Diesel,233,Manualna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+16,335435,Firmy,2021,10,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+17,234900,Firmy,2021,23203,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+18,239900,Firmy,2021,19327,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+19,25000,Osoby prywatnej,2005,250000,3123,Benzyna,255,Manualna,Na przednie koła,Sedan,Szary,Używane
+20,27900,Osoby prywatnej,2006,339879,2967,Diesel,224,Automatyczna,4x4 (dołączany automatycznie),Kombi,Zielony,Używane
+21,240000,Firmy,2020,14395,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+22,231900,Firmy,2021,28818,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+23,229900,Firmy,2021,26280,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+24,209000,Osoby prywatnej,2019,14000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+25,304900,Firmy,2021,23132,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+26,17600,Osoby prywatnej,2003,110000,2486,Diesel,180,Manualna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+27,82000,Osoby prywatnej,2012,198150,2995,Benzyna,300,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+28,56700,Osoby prywatnej,2012,170098,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+29,68700,Osoby prywatnej,2012,182800,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Szary,Używane
+30,37900,Firmy,2006,289760,4163,Benzyna,350,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+31,115000,Osoby prywatnej,2016,167000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+32,91000,Osoby prywatnej,2015,76000,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+33,183000,Osoby prywatnej,2019,39000,1984,Benzyna,245,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+34,55900,Osoby prywatnej,2012,329000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+35,140000,Osoby prywatnej,2018,24632,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+36,25900,Osoby prywatnej,2005,260454,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+37,25500,Osoby prywatnej,2008,292800,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+38,86000,Firmy,2012,89911,2995,Benzyna,310,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+39,105000,Osoby prywatnej,2015,99000,2967,Diesel,272,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+40,134900,Firmy,2017,109686,1698,Diesel,150,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+41,159900,Firmy,2017,199100,2967,Diesel,272,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+42,60800,Osoby prywatnej,2012,259969,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+43,325000,Firmy,2020,17000,1984,Hybryda,299,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+44,284600,Firmy,2021,8500,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+45,29700,Firmy,2007,250000,2400,Benzyna,177,Manualna,4x4 (stały),Kombi,Szary,Używane
+46,52900,Osoby prywatnej,2011,254887,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+47,298400,Firmy,2022,4000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+48,39999,Osoby prywatnej,2010,183305,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+49,70000,Osoby prywatnej,2014,189500,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+50,23900,Osoby prywatnej,2008,272000,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+51,279900,Firmy,2021,16104,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+52,324900,Firmy,2021,27854,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+53,259900,Firmy,2020,16503,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+54,82900,Osoby prywatnej,2014,144000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+55,259900,Firmy,2018,121500,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+56,285000,Osoby prywatnej,2019,52004,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+57,294400,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+58,292000,Firmy,2021,10100,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+59,349800,Firmy,2022,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Kombi,Niebieski,Nowe
+60,317300,Firmy,2021,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Szary,Nowe
+61,257800,Firmy,2022,1,1968,Diesel,163,Automatyczna,Na przednie koła,Kombi,Czarny,Nowe
+62,9900,Osoby prywatnej,2003,358000,1781,Benzyna+LPG,149,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+63,274900,Firmy,2021,5,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Biały,Nowe
+64,54900,Osoby prywatnej,2011,265000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+65,254900,Firmy,2018,89965,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+66,82900,Osoby prywatnej,2018,94000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+67,315000,Firmy,2020,34091,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+68,82900,Firmy,2014,144885,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+69,59900,Osoby prywatnej,2012,365886,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+70,366036,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Nowe
+71,89000,Osoby prywatnej,2012,206000,2967,Diesel,313,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+72,19900,Osoby prywatnej,2005,349200,2393,Benzyna+LPG,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+73,135900,Firmy,2014,149000,2967,Diesel,320,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+74,119900,Firmy,2017,159000,2967,Diesel,218,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+75,179900,Firmy,2019,76839,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+76,39900,Osoby prywatnej,2009,385000,2967,Diesel,240,Automatyczna,4x4 (stały),Sedan,Beżowy,Używane
+77,299600,Firmy,2021,2000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+78,67900,Osoby prywatnej,2012,271000,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+79,5500,Osoby prywatnej,1998,300200,2398,Benzyna,165,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+80,199900,Firmy,2020,19293,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+81,185900,Firmy,2020,25758,1968,Diesel,163,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+82,437700,Firmy,2022,1,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+83,84500,Osoby prywatnej,2012,254000,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+84,399800,Firmy,2021,14374,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czerwony,Używane
+85,299900,Firmy,2020,44080,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+86,75900,Osoby prywatnej,2014,175000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+87,277900,Firmy,2020,19085,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+88,209900,Firmy,2020,23053,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+89,94900,Osoby prywatnej,2018,98000,1968,Diesel,150,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+90,39900,Osoby prywatnej,2010,237000,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+91,27900,Osoby prywatnej,2004,244000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+92,149999,Osoby prywatnej,2018,58200,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+93,93000,Osoby prywatnej,2015,192000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+94,49900,Osoby prywatnej,2012,180000,1984,Benzyna,180,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+95,24999,Firmy,2004,286000,2698,Diesel,180,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+96,134900,Osoby prywatnej,2018,73662,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+97,119000,Firmy,2016,170000,2967,Diesel,272,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+98,58000,Osoby prywatnej,2013,260000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+99,277900,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Biały,Nowe
+100,20500,Osoby prywatnej,2006,390000,1968,Diesel,140,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+101,249000,Osoby prywatnej,2021,12000,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+102,388400,Firmy,2022,1,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+103,180000,Osoby prywatnej,2016,168300,2967,Diesel,326,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+104,68700,Firmy,2014,176568,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+105,58500,Osoby prywatnej,2013,278987,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+106,29900,Osoby prywatnej,2011,229000,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+107,476800,Firmy,2022,1,2967,Diesel,344,Automatyczna,4x4 (stały),Kombi,Niebieski,Nowe
+108,18900,Osoby prywatnej,2005,194587,2393,Benzyna,177,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+109,63900,Osoby prywatnej,2013,108500,1984,Benzyna,180,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+110,111181,Osoby prywatnej,2019,64500,1984,Benzyna,245,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+111,89000,Osoby prywatnej,2013,114000,2967,Diesel,313,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+112,299900,Firmy,2021,27639,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+113,294900,Firmy,2021,28344,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+114,289900,Firmy,2021,7364,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+115,259900,Firmy,2021,16165,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+116,65900,Firmy,2012,131000,1968,Diesel,170,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+117,40500,Osoby prywatnej,2008,275000,2995,Benzyna,290,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+118,94000,Osoby prywatnej,2014,256000,2967,Diesel,313,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+119,84500,Osoby prywatnej,2014,200000,2967,Diesel,313,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+120,89900,Osoby prywatnej,2015,191000,1968,Diesel,150,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+121,99999,Firmy,2018,178000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+122,108500,Osoby prywatnej,2015,127000,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+123,25900,Osoby prywatnej,2004,295000,2967,Diesel,224,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+124,45900,Osoby prywatnej,2010,248389,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+125,169000,Osoby prywatnej,2018,99000,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+126,111000,Osoby prywatnej,2017,97855,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+127,27500,Osoby prywatnej,2000,206011,4163,Benzyna,334,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+128,22000,Osoby prywatnej,2007,282000,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+129,105000,Osoby prywatnej,2016,88000,1984,Benzyna,252,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+130,21500,Osoby prywatnej,2004,375000,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+131,125000,Osoby prywatnej,2016,149552,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+132,53900,Osoby prywatnej,2013,199850,1968,Diesel,136,Manualna,Na przednie koła,Kombi,Brązowy,Używane
+133,86900,Firmy,2015,138236,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+134,109000,Osoby prywatnej,2015,173000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+135,19000,Osoby prywatnej,2005,510000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+136,315600,Firmy,2022,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+137,674500,Firmy,2022,1,3996,Benzyna,600,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+138,69999,Firmy,2013,173760,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+139,324900,Firmy,2021,24474,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+140,304900,Firmy,2021,27672,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+141,222900,Firmy,2020,24412,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+142,90000,Osoby prywatnej,2014,152800,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+143,142000,Osoby prywatnej,2018,68750,1968,Diesel,190,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+144,33950,Osoby prywatnej,2008,270000,3123,Benzyna,255,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+145,153000,Osoby prywatnej,2018,119000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+146,25700,Firmy,2004,299000,3200,Benzyna,256,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+147,248800,Firmy,2019,89000,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+148,269900,Firmy,2021,24032,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+149,259900,Firmy,2020,17596,1984,Hybryda,299,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+150,269700,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+151,269900,Firmy,2021,10804,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+152,288999,Osoby prywatnej,2021,23000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+153,34900,Osoby prywatnej,2007,189000,2393,Benzyna+LPG,177,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+154,65000,Firmy,2013,190050,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+155,62500,Osoby prywatnej,2012,224700,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+156,135000,Osoby prywatnej,2016,115500,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+157,107900,Osoby prywatnej,2016,169000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Brązowy,Używane
+158,172815,Osoby prywatnej,2018,189000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+159,183800,Firmy,2019,138000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+160,47000,Osoby prywatnej,2010,104538,1984,Benzyna,170,Automatyczna,Na przednie koła,Sedan,Inny kolor,Używane
+161,334900,Firmy,2021,5796,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+162,64800,Osoby prywatnej,2014,247321,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+163,167700,Osoby prywatnej,2018,167600,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+164,14700,Osoby prywatnej,2004,338702,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Szary,Używane
+165,224900,Firmy,2020,58266,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+166,97000,Osoby prywatnej,2016,151000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+167,319900,Firmy,2020,23391,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Biały,Używane
+168,22700,Firmy,2004,299000,2400,Benzyna,177,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+169,23700,Firmy,2005,299000,2400,Benzyna,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+170,29700,Firmy,2005,220000,2400,Benzyna,177,Manualna,4x4 (stały),Kombi,Czarny,Używane
+171,284990,Firmy,2018,68000,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+172,245000,Firmy,2018,108500,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+173,109000,Osoby prywatnej,2018,195000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+174,99500,Osoby prywatnej,2015,179000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+175,284900,Firmy,2019,68000,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+176,279900,Firmy,2020,31500,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+177,23700,Firmy,2004,270000,3200,Benzyna,256,Manualna,Na przednie koła,Sedan,Czarny,Używane
+178,299900,Firmy,2020,3674,1984,Benzyna,299,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+179,67900,Osoby prywatnej,2012,237000,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+180,269900,Firmy,2021,17777,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+181,224900,Firmy,2020,20326,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Niebieski,Używane
+182,222900,Firmy,2020,26377,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+183,99899,Osoby prywatnej,2016,187000,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+184,8900,Osoby prywatnej,1999,230000,2396,Benzyna,160,Manualna,Na przednie koła,Kombi,Zielony,Używane
+185,187500,Firmy,2018,40800,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+186,25500,Osoby prywatnej,2008,320000,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Czarny,Używane
+187,199900,Firmy,2019,99000,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+188,79900,Osoby prywatnej,2013,290000,2967,Diesel,313,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+189,25700,Firmy,2004,190000,3200,Benzyna,256,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+190,199900,Firmy,2019,159000,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+191,32700,Firmy,2007,220000,2400,Benzyna,177,Manualna,4x4 (stały),Sedan,Szary,Używane
+192,99900,Osoby prywatnej,2018,158200,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+193,19900,Osoby prywatnej,2005,275500,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+194,22400,Firmy,2006,182000,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+195,299900,Firmy,2021,22609,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+196,332300,Firmy,2022,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Kombi,Niebieski,Nowe
+197,329400,Firmy,2022,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+198,232900,Firmy,2021,29477,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+199,118000,Osoby prywatnej,2015,197000,2967,Diesel,320,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+200,69900,Osoby prywatnej,2012,280000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+201,21000,Osoby prywatnej,2007,395735,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+202,207624,Firmy,2019,160000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+203,192900,Osoby prywatnej,2019,150900,2967,Diesel,231,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+204,21900,Osoby prywatnej,2006,345000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Szary,Używane
+205,105900,Firmy,2014,184763,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+206,44700,Firmy,2011,320000,2700,Diesel,240,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+207,204900,Firmy,2019,135000,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+208,294500,Firmy,2021,30714,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+209,87500,Osoby prywatnej,2013,142500,2967,Diesel,313,Automatyczna,4x4 (dołączany automatycznie),Kombi,Brązowy,Używane
+210,152800,Osoby prywatnej,2016,99000,2967,Diesel,326,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+211,132800,Firmy,2018,153000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+212,112000,Osoby prywatnej,2018,47511,1984,Benzyna,252,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+213,122900,Osoby prywatnej,2018,117802,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+214,19999,Osoby prywatnej,2003,335200,1781,Benzyna,150,Manualna,4x4 (stały),Kombi,Czarny,Używane
+215,64900,Osoby prywatnej,2012,299000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+216,238500,Osoby prywatnej,2021,10000,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+217,15999,Osoby prywatnej,2000,322000,2500,Diesel,180,Automatyczna,4x4 (dołączany automatycznie),Sedan,Inny kolor,Używane
+218,91900,Osoby prywatnej,2015,241470,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+219,122900,Osoby prywatnej,2017,163000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+220,56900,Osoby prywatnej,2012,198000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+221,19500,Osoby prywatnej,2006,420000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Czarny,Używane
+222,145000,Osoby prywatnej,2016,259000,2967,Diesel,326,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+223,37700,Firmy,2009,240000,2800,Benzyna,220,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+224,64900,Firmy,2014,229000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+225,22700,Osoby prywatnej,2007,336000,2698,Diesel,180,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+226,317300,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+227,27900,Firmy,2006,262758,2698,Diesel,190,Manualna,Na przednie koła,Sedan,Czarny,Używane
+228,79900,Osoby prywatnej,2016,197000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+229,100200,Firmy,2017,70033,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+230,89999,Osoby prywatnej,2017,260000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+231,129900,Firmy,2017,70584,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+232,46000,Osoby prywatnej,2011,203000,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+233,284900,Firmy,2020,11865,2967,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Sedan,Beżowy,Używane
+234,269800,Osoby prywatnej,2019,23800,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+235,149900,Firmy,2017,31350,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+236,336988,Firmy,2021,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+237,72900,Osoby prywatnej,2012,160000,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+238,254999,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+239,295000,Firmy,2022,500,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Nowe
+240,89900,Osoby prywatnej,2015,220000,1968,Diesel,150,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+241,85000,Osoby prywatnej,2011,209500,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Brązowy,Używane
+242,25400,Osoby prywatnej,2008,186000,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+243,305989,Firmy,2022,8,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+244,58900,Osoby prywatnej,2011,280000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+245,298800,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Nowe
+246,9000,Osoby prywatnej,1998,380000,1800,Benzyna+LPG,150,Manualna,Na przednie koła,Sedan,Fioletowy,Używane
+247,24900,Firmy,2007,189000,1984,Benzyna,170,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+248,75900,Osoby prywatnej,2015,292000,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Biały,Używane
+249,343100,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+250,89700,Firmy,2015,137487,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+251,19800,Osoby prywatnej,2004,425500,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+252,60999,Osoby prywatnej,2012,478000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+253,219900,Firmy,2018,76016,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+254,219900,Firmy,2021,5000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Biały,Nowe
+255,23000,Osoby prywatnej,2004,265000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+256,279900,Firmy,2020,29984,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+257,199900,Firmy,2019,29800,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+258,279900,Firmy,2018,113800,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+259,279900,Firmy,2019,67800,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+260,279900,Firmy,2018,52000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+261,224900,Firmy,2020,20920,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+262,134070,Osoby prywatnej,2016,140756,2967,Diesel,272,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+263,189900,Firmy,2018,66677,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+264,20900,Osoby prywatnej,2007,289900,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+265,229900,Firmy,2020,27689,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+266,23000,Osoby prywatnej,2007,239000,2773,Benzyna,210,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+267,115900,Firmy,2017,170000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Fioletowy,Używane
+268,6900,Osoby prywatnej,1997,360400,1781,Benzyna+LPG,149,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+269,199900,Firmy,2021,28161,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+270,22900,Osoby prywatnej,2005,343000,2967,Diesel,224,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+271,175000,Firmy,2016,93000,2967,Diesel,326,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+272,337977,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Biały,Nowe
+273,69999,Osoby prywatnej,2013,117000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Szary,Używane
+274,312000,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Nowe
+275,277986,Firmy,2022,500,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+276,59900,Osoby prywatnej,2012,199100,1984,Benzyna,180,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+277,199900,Firmy,2019,59900,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+278,339453,Firmy,2022,290,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+279,351300,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+280,321900,Firmy,2021,100,1984,Hybryda,266,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+281,10800,Osoby prywatnej,2003,325000,1896,Diesel,130,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+282,359644,Firmy,2022,5,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+283,356166,Firmy,2022,5,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+284,75000,Osoby prywatnej,2013,236000,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+285,17900,Osoby prywatnej,2003,174000,1800,Benzyna,150,Manualna,Na przednie koła,Kombi,Szary,Używane
+286,72900,Osoby prywatnej,2014,112000,1968,Diesel,136,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+287,65000,Firmy,2014,302555,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+288,76000,Osoby prywatnej,2012,175000,2995,Benzyna,299,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+289,138900,Firmy,2018,92021,1968,Diesel,190,Manualna,Na przednie koła,Sedan,Czarny,Używane
+290,212900,Firmy,2018,133600,3000,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+291,214900,Firmy,2018,123600,3000,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+292,18000,Osoby prywatnej,2005,320000,2698,Diesel,180,Manualna,Na przednie koła,Sedan,Czarny,Używane
+293,109700,Firmy,2018,181000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+294,159900,Firmy,2017,140208,2967,Diesel,320,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+295,30000,Osoby prywatnej,2010,341000,2995,Benzyna,290,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+296,18500,Osoby prywatnej,2006,270000,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+297,269000,Firmy,2021,27357,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+298,232900,Firmy,2021,33350,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+299,98800,Firmy,2015,99000,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+300,225000,Osoby prywatnej,2019,48243,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+301,139900,Firmy,2018,158000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+302,16900,Osoby prywatnej,2005,211450,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+303,219900,Firmy,2019,67850,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+304,219900,Firmy,2020,16441,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+305,229900,Firmy,2018,95229,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+306,17900,Osoby prywatnej,2007,240345,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+307,259900,Firmy,2020,24856,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+308,86700,Firmy,2016,146000,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Biały,Używane
+309,63900,Firmy,2016,94148,2995,Benzyna,333,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+310,18700,Osoby prywatnej,2006,298440,2967,Diesel,224,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+311,43900,Osoby prywatnej,2009,256554,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+312,109900,Firmy,2016,148545,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+313,229900,Firmy,2021,26823,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+314,189900,Firmy,2020,26097,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Złoty,Używane
+315,234900,Firmy,2020,26329,1984,Benzyna,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+316,18900,Osoby prywatnej,2007,246500,3123,Benzyna,255,Manualna,4x4 (stały),Sedan,Szary,Używane
+317,11900,Osoby prywatnej,1998,190000,2400,Benzyna,170,Manualna,Na przednie koła,Sedan,Zielony,Używane
+318,184900,Firmy,2020,27210,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+319,39500,Firmy,2009,321500,2967,Diesel,240,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+320,138000,Osoby prywatnej,2016,27500,2995,Benzyna,333,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+321,75900,Firmy,2013,267000,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+322,351300,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Niebieski,Nowe
+323,84000,Osoby prywatnej,2015,210000,1984,Benzyna,252,Automatyczna,Na przednie koła,Sedan,Beżowy,Używane
+324,29900,Firmy,2013,143776,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+325,27800,Osoby prywatnej,2005,345000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+326,80000,Osoby prywatnej,2012,184000,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+327,269900,Firmy,2020,4155,1984,Benzyna,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+328,194900,Firmy,2019,6800,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+329,359900,Firmy,2021,11954,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+330,299900,Firmy,2020,30400,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+331,28900,Firmy,2008,330000,2700,Diesel,184,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+332,25300,Osoby prywatnej,2004,350000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+333,47900,Osoby prywatnej,2009,198200,2967,Diesel,240,Manualna,4x4 (stały),Kombi,Czarny,Używane
+334,66900,Firmy,2011,175426,2773,Benzyna,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+335,73000,Firmy,2011,286000,2995,Benzyna,300,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+336,154900,Firmy,2018,67219,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+337,85899,Firmy,2015,125920,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Biały,Używane
+338,125460,Osoby prywatnej,2015,123000,2967,Diesel,272,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+339,246000,Firmy,2021,6500,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+340,156000,Osoby prywatnej,2017,64084,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+341,99900,Firmy,2016,86638,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+342,89999,Firmy,2016,160000,1968,Diesel,150,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+343,299700,Osoby prywatnej,2018,29800,2995,Benzyna,340,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+344,18000,Firmy,2005,230933,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+345,137900,Firmy,2016,142000,2967,Diesel,326,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+346,67000,Osoby prywatnej,2013,150000,1984,Benzyna,180,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+347,184900,Firmy,2019,29470,1984,Benzyna,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+348,239900,Firmy,2018,65659,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+349,239900,Firmy,2021,22763,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+350,44300,Osoby prywatnej,2009,192300,2967,Diesel,240,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+351,219900,Firmy,2021,28599,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+352,17900,Firmy,2003,192000,1781,Benzyna,150,Automatyczna,Na przednie koła,Sedan,Niebieski,Używane
+353,91000,Osoby prywatnej,2015,220000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+354,227900,Firmy,2021,29521,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+355,219900,Firmy,2021,29527,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+356,25900,Osoby prywatnej,2010,240000,2773,Benzyna,190,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+357,22800,Firmy,2006,298012,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+358,89900,Osoby prywatnej,2013,227000,2967,Diesel,313,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+359,354209,Firmy,2021,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+360,347500,Firmy,2021,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Nowe
+361,154900,Firmy,2018,142285,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+362,79900,Firmy,2015,170000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+363,219900,Firmy,2019,119871,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+364,299900,Firmy,2019,45600,2995,Benzyna,340,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+365,199000,Firmy,2018,74500,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+366,324900,Firmy,2020,7700,1984,Hybryda,252,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+367,169900,Firmy,2018,139000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+368,209900,Firmy,2019,96000,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+369,279900,Firmy,2018,113900,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+370,169900,Firmy,2019,112000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+371,289900,Firmy,2018,179980,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+372,84000,Osoby prywatnej,2013,113000,1968,Diesel,177,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+373,175000,Firmy,2018,62340,2967,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+374,24900,Firmy,2005,234000,3123,Benzyna,255,Manualna,4x4 (stały),Kombi,Inny kolor,Używane
+375,462230,Firmy,2021,7,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+376,206900,Firmy,2018,48699,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+377,329200,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+378,21900,Firmy,2006,289123,2393,Benzyna,177,Manualna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+379,37500,Firmy,2012,320000,2967,Diesel,204,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+380,16999,Firmy,2003,195000,1800,Benzyna,150,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+381,184900,Firmy,2020,47000,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+382,194900,Firmy,2019,38375,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+383,269900,Firmy,2020,14902,1984,Benzyna,367,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+384,65900,Osoby prywatnej,2012,199000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+385,27900,Firmy,2008,201000,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+386,9999,Osoby prywatnej,2004,404500,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+387,22900,Osoby prywatnej,1995,250000,2600,Benzyna,150,Manualna,Na przednie koła,Kombi,Biały,Używane
+388,97000,Osoby prywatnej,2013,127000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+389,109900,Osoby prywatnej,2016,113000,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+390,26999,Osoby prywatnej,2008,340000,2967,Diesel,233,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+391,129799,Firmy,2018,64762,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+392,97900,Firmy,2017,246000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+393,172900,Firmy,2019,189810,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+394,239000,Firmy,2020,26835,2986,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+395,119900,Firmy,2017,160800,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+396,174900,Firmy,2019,71071,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+397,280600,Firmy,2021,10,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+398,179900,Firmy,2018,115000,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+399,299900,Firmy,2021,109,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+400,19900,Firmy,2019,51000,2967,Diesel,285,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+401,112500,Firmy,2016,186000,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+402,59900,Osoby prywatnej,2018,136000,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+403,26900,Osoby prywatnej,2005,221000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+404,49600,Osoby prywatnej,2013,182000,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+405,60000,Osoby prywatnej,2011,220000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+406,219900,Firmy,2020,4484,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Niebieski,Używane
+407,15900,Osoby prywatnej,2002,209897,2393,Benzyna,170,Manualna,Na przednie koła,Sedan,Szary,Używane
+408,309900,Firmy,2020,42100,1984,Hybryda,367,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+409,247800,Firmy,2018,59030,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+410,59899,Firmy,2014,311956,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+411,68000,Firmy,2013,198899,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+412,107800,Firmy,2015,146000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Brązowy,Używane
+413,26900,Firmy,2008,227854,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Czarny,Używane
+414,25999,Osoby prywatnej,2007,263000,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Szary,Używane
+415,68900,Firmy,2012,238000,2995,Benzyna,310,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+416,289900,Firmy,2020,51309,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+417,229900,Firmy,2021,27821,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+418,254900,Firmy,2021,28571,1984,Benzyna,265,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+419,97000,Osoby prywatnej,2017,124000,1968,Diesel,150,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+420,23900,Osoby prywatnej,2004,283000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+421,62000,Firmy,2014,230939,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+422,162600,Firmy,2018,134000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+423,312541,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Nowe
+424,20500,Osoby prywatnej,2004,300000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+425,89500,Osoby prywatnej,2016,206000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Niebieski,Używane
+426,26900,Osoby prywatnej,2006,256121,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+427,36000,Osoby prywatnej,2008,292000,2967,Diesel,240,Automatyczna,4x4 (stały),Sedan,Złoty,Używane
+428,5999,Firmy,1999,305805,2496,Diesel,150,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+429,19600,Firmy,2007,305000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+430,6900,Osoby prywatnej,2000,540000,1896,Diesel,110,Manualna,Na przednie koła,Kombi,Czarny,Używane
+431,63200,Firmy,2013,198000,1968,Diesel,136,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+432,22500,Firmy,2004,205200,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+433,24500,Firmy,2012,176000,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+434,36900,Osoby prywatnej,2009,289000,2967,Diesel,240,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+435,22990,Osoby prywatnej,2006,263000,2967,Diesel,224,Manualna,4x4 (stały),Kombi,Czarny,Używane
+436,59900,Osoby prywatnej,2014,307605,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+437,110900,Osoby prywatnej,2015,127453,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+438,124700,Firmy,2018,170000,1968,Diesel,190,Manualna,Na przednie koła,Sedan,Czarny,Używane
+439,132500,Osoby prywatnej,2015,75000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Inny kolor,Używane
+440,59900,Osoby prywatnej,2013,263000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+441,35900,Osoby prywatnej,2010,339000,2698,Diesel,190,Manualna,Na przednie koła,Kombi,Szary,Używane
+442,11600,Osoby prywatnej,2002,108965,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+443,21500,Osoby prywatnej,2006,281300,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Szary,Używane
+444,19800,Osoby prywatnej,2008,266800,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Czarny,Używane
+445,27900,Firmy,2004,138000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+446,21999,Osoby prywatnej,2005,361000,2967,Diesel,224,Manualna,4x4 (stały),Kombi,Szary,Używane
+447,240000,Osoby prywatnej,2021,5636,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+448,81900,Osoby prywatnej,2015,177100,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+449,265000,Firmy,2021,8500,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+450,67000,Osoby prywatnej,2012,152000,2967,Diesel,204,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+451,31900,Osoby prywatnej,2009,340000,2967,Diesel,240,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+452,105000,Osoby prywatnej,2017,44153,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+453,32900,Osoby prywatnej,2009,278000,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Szary,Używane
+454,11500,Osoby prywatnej,2002,266000,1896,Diesel,130,Manualna,Na przednie koła,Sedan,Czarny,Używane
+455,7500,Osoby prywatnej,2003,273000,2496,Diesel,180,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+456,19400,Osoby prywatnej,2006,324500,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Fioletowy,Używane
+457,121900,Osoby prywatnej,2018,67000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+458,3990,Firmy,1998,299999,2460,Diesel,150,Manualna,4x4 (dołączany automatycznie),Sedan,Czerwony,Używane
+459,26500,Osoby prywatnej,2005,295000,2967,Diesel,224,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+460,79999,Osoby prywatnej,2015,195000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+461,27900,Osoby prywatnej,2007,200000,2393,Benzyna,177,Manualna,4x4 (stały),Kombi,Inny kolor,Używane
+462,61300,Osoby prywatnej,2012,147000,1984,Benzyna,180,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+463,13500,Osoby prywatnej,2003,248700,1984,Benzyna+LPG,130,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+464,61000,Osoby prywatnej,2012,267000,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+465,144026,Osoby prywatnej,2018,76000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+466,9000,Osoby prywatnej,1995,191000,2600,Benzyna,150,Automatyczna,Na przednie koła,Sedan,Zielony,Używane
+467,17000,Osoby prywatnej,2003,236000,2671,Benzyna,350,Manualna,4x4 (stały),Sedan,Czarny,Używane
+468,58900,Firmy,2012,221007,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Złoty,Używane
+469,76000,Osoby prywatnej,2014,279000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+470,149000,Osoby prywatnej,2020,33000,2995,Benzyna,340,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+471,65000,Osoby prywatnej,2013,77600,1998,Benzyna,211,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+472,474500,Firmy,2021,5000,2995,Benzyna,340,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+473,19999,Osoby prywatnej,2005,223000,2393,Benzyna,177,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+474,64000,Firmy,2014,207060,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+475,12999,Osoby prywatnej,2003,230000,2400,Benzyna,170,Manualna,4x4 (stały),Sedan,Niebieski,Używane
+476,35999,Osoby prywatnej,2007,270000,2967,Diesel,233,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+477,55900,Osoby prywatnej,2012,218000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+478,24500,Osoby prywatnej,1996,310200,2598,Benzyna,150,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+479,49900,Firmy,2014,60030,1984,Benzyna,245,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+480,21500,Firmy,2005,282000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+481,109900,Firmy,2017,170000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+482,6999,Osoby prywatnej,1997,362785,1800,Benzyna+LPG,150,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+483,10600,Osoby prywatnej,2003,315000,2500,Diesel,180,Automatyczna,4x4 (stały),Kombi,Złoty,Używane
+484,244900,Firmy,2018,116400,3000,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+485,49900,Firmy,2010,180000,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Złoty,Używane
+486,26777,Firmy,2006,263000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+487,219000,Firmy,2020,31262,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+488,108698,Firmy,2019,180162,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+489,45900,Firmy,2014,120000,1968,Diesel,177,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+490,259900,Firmy,2020,16400,2000,Hybryda,299,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+491,234900,Firmy,2019,106900,3000,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+492,79000,Osoby prywatnej,2015,294000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+493,94900,Osoby prywatnej,2017,200000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+494,99999,Firmy,2015,300222,2967,Diesel,218,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+495,97170,Osoby prywatnej,2014,238000,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+496,335157,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+497,144900,Firmy,2016,133000,2967,Diesel,326,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+498,30000,Osoby prywatnej,2008,250000,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Czarny,Używane
+499,231900,Firmy,2021,24060,1998,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+500,239900,Firmy,2018,119200,3000,Diesel,286,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+501,54900,Firmy,2012,335000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+502,196000,Osoby prywatnej,2019,21800,2995,Benzyna,340,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+503,331300,Firmy,2022,5,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Niebieski,Nowe
+504,115000,Osoby prywatnej,2015,164000,2967,Diesel,245,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+505,199900,Firmy,2018,81300,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+506,149000,Osoby prywatnej,2018,148000,1968,Diesel,190,Automatyczna,4x4 (dołączany automatycznie),Sedan,Biały,Używane
+507,15800,Firmy,2003,314162,1900,Diesel,130,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+508,214900,Firmy,2018,89600,3000,Diesel,231,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+509,269800,Firmy,2019,85900,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+510,168000,Osoby prywatnej,2018,69000,2000,Benzyna,251,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+511,307100,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+512,269900,Firmy,2019,49592,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+513,25500,Osoby prywatnej,2008,310000,3123,Benzyna,255,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+514,26900,Osoby prywatnej,2006,217000,2698,Diesel,180,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+515,120000,Osoby prywatnej,2012,98000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+516,23700,Osoby prywatnej,2006,246000,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Szary,Używane
+517,207900,Firmy,2020,27282,1968,Diesel,163,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+518,249900,Firmy,2021,27097,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+519,182000,Osoby prywatnej,2018,81000,1984,Benzyna,252,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+520,57900,Osoby prywatnej,2011,235550,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+521,58800,Firmy,2014,92000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+522,137500,Firmy,2017,131400,2000,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+523,278267,Firmy,2021,5,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Nowe
+524,19500,Firmy,2007,390000,1968,Diesel,140,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+525,36900,Osoby prywatnej,2008,224000,1968,Diesel,136,Manualna,Na przednie koła,Kombi,Czarny,Używane
+526,85800,Osoby prywatnej,2015,235995,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Czarny,Używane
+527,125900,Firmy,2015,199999,2967,Diesel,320,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+528,369749,Firmy,2022,10,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+529,27500,Firmy,2010,534000,1968,Diesel,136,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+530,244900,Firmy,2018,134600,3000,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+531,123450,Firmy,2017,80186,1968,Diesel,190,Automatyczna,4x4 (dołączany automatycznie),Sedan,Biały,Używane
+532,79900,Osoby prywatnej,2013,310000,2967,Diesel,313,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+533,20000,Osoby prywatnej,2005,270000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+534,309570,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Nowe
+535,60000,Osoby prywatnej,2011,284500,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+536,89990,Firmy,2017,224000,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Biały,Używane
+537,295400,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+538,356300,Firmy,2022,1,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Niebieski,Nowe
+539,295230,Firmy,2022,4,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+540,18400,Firmy,2005,300000,2967,Diesel,204,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+541,215000,Firmy,2020,27446,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+542,4900,Osoby prywatnej,2001,350000,2671,Benzyna+LPG,250,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+543,247900,Firmy,2021,4000,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+544,176990,Firmy,2018,120000,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+545,22000,Osoby prywatnej,2007,260000,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+546,304900,Firmy,2021,26585,1984,Benzyna,265,Automatyczna,Na przednie koła,Kombi,Czerwony,Używane
+547,276000,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+548,23900,Firmy,2006,209000,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Złoty,Używane
+549,376197,Firmy,2022,5,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+550,244900,Firmy,2018,98200,3000,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+551,67900,Osoby prywatnej,2011,304000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+552,23000,Osoby prywatnej,2006,440000,2698,Diesel,180,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+553,288500,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+554,159900,Firmy,2019,150140,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+555,239900,Firmy,2021,24805,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+556,62800,Osoby prywatnej,2014,254932,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+557,279800,Firmy,2018,54000,2995,Benzyna,340,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+558,215900,Firmy,2018,99100,3000,Diesel,231,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+559,179900,Firmy,2020,30560,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+560,173900,Firmy,2016,101200,2967,Diesel,326,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+561,289900,Firmy,2021,18629,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+562,189900,Firmy,2018,95322,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+563,64700,Osoby prywatnej,2011,278098,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Brązowy,Używane
+564,279900,Firmy,2020,40014,2967,Diesel,231,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+565,274900,Firmy,2021,24020,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+566,48900,Osoby prywatnej,2010,233200,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+567,318300,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Biały,Nowe
+568,7500,Osoby prywatnej,2002,301000,2496,Diesel,163,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+569,26900,Firmy,2007,343666,2967,Diesel,233,Manualna,4x4 (stały),Kombi,Szary,Używane
+570,33000,Osoby prywatnej,2004,281000,3123,Benzyna,255,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+571,33900,Osoby prywatnej,2008,276000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+572,299900,Firmy,2020,24350,1984,Hybryda,367,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+573,15700,Osoby prywatnej,2006,307000,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Szary,Używane
+574,199900,Firmy,2018,113700,3000,Diesel,231,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+575,48900,Osoby prywatnej,2008,226000,3123,Benzyna,255,Manualna,4x4 (stały),Kombi,Czarny,Używane
+576,23900,Firmy,2007,273235,2967,Diesel,224,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+577,52000,Osoby prywatnej,2010,232372,2967,Diesel,240,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+578,134900,Firmy,2017,163229,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+579,32990,Firmy,2009,245000,1968,Diesel,136,Manualna,Na przednie koła,Kombi,Szary,Używane
+580,88000,Osoby prywatnej,2012,197000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+581,79900,Firmy,2012,174000,2967,Diesel,204,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+582,462230,Firmy,2021,1,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+583,269900,Firmy,2021,25158,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+584,269900,Firmy,2021,27692,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+585,279900,Firmy,2020,28115,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+586,89900,Firmy,2015,149000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+587,96900,Firmy,2015,141698,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+588,72000,Osoby prywatnej,2012,232000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+589,62000,Osoby prywatnej,2014,260000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+590,299900,Firmy,2021,19198,2000,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+591,82500,Firmy,2013,301500,2967,Diesel,313,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+592,138990,Osoby prywatnej,2018,132000,1968,Diesel,190,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+593,12700,Firmy,2005,297000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+594,239900,Firmy,2021,27923,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+595,269900,Firmy,2021,29222,2986,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+596,13400,Osoby prywatnej,2002,375000,2400,Benzyna+LPG,170,Manualna,4x4 (stały),Sedan,Niebieski,Używane
+597,123799,Firmy,2018,155519,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Beżowy,Używane
+598,84500,Firmy,2014,161000,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Inny kolor,Używane
+599,368884,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Nowe
+600,269900,Firmy,2020,22227,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+601,269900,Firmy,2021,27694,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+602,229900,Firmy,2021,26327,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+603,348599,Firmy,2022,10,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czerwony,Nowe
+604,258359,Firmy,2022,10,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Nowe
+605,219000,Firmy,2021,4900,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+606,64008,Osoby prywatnej,2012,185700,2967,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+607,241790,Firmy,2022,15,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Szary,Nowe
+608,236660,Firmy,2022,15,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Czarny,Nowe
+609,241790,Firmy,2022,15,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Szary,Nowe
+610,39999,Osoby prywatnej,2010,240000,2967,Diesel,240,Manualna,4x4 (stały),Sedan,Inny kolor,Używane
+611,222900,Firmy,2020,22953,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+612,234900,Firmy,2021,20350,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+613,229900,Firmy,2021,21782,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+614,17500,Osoby prywatnej,2006,304000,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+615,20900,Osoby prywatnej,2003,210000,2700,Benzyna+LPG,250,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+616,128000,Firmy,2016,99000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+617,79999,Osoby prywatnej,2014,93500,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+618,23900,Firmy,2004,195000,2398,Benzyna,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+619,21900,Osoby prywatnej,2006,246100,2967,Diesel,224,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+620,139000,Firmy,2017,189000,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Biały,Używane
+621,13900,Osoby prywatnej,2004,319000,1984,Benzyna,130,Manualna,Na przednie koła,Kombi,Czarny,Używane
+622,354100,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czerwony,Nowe
+623,282800,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Biały,Nowe
+624,242900,Firmy,2021,25155,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+625,85500,Firmy,2018,94130,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+626,239900,Firmy,2021,21478,1984,Benzyna,265,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+627,239900,Firmy,2021,20810,1984,Benzyna,265,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+628,129799,Firmy,2017,144020,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+629,13700,Firmy,2002,288000,1984,Benzyna,131,Manualna,Na przednie koła,Sedan,Szary,Używane
+630,135000,Osoby prywatnej,2017,239000,2967,Diesel,272,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+631,255900,Firmy,2018,116100,3000,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+632,94900,Firmy,2015,167000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+633,18950,Firmy,2008,301000,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Biały,Używane
+634,84900,Firmy,2016,188241,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+635,73800,Osoby prywatnej,2013,245616,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+636,30900,Osoby prywatnej,2011,298711,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+637,14900,Firmy,2005,419985,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Szary,Używane
+638,82000,Osoby prywatnej,2015,240000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+639,77800,Firmy,2014,203000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+640,86700,Osoby prywatnej,2015,278023,1968,Diesel,150,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+641,9900,Osoby prywatnej,1998,317000,2349,Benzyna+LPG,165,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+642,254900,Firmy,2018,75100,3000,Diesel,286,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+643,144900,Osoby prywatnej,2017,21000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+644,22500,Osoby prywatnej,2006,279900,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Czarny,Używane
+645,289900,Firmy,2018,62602,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+646,139900,Firmy,2017,70262,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+647,114900,Osoby prywatnej,2015,167589,2967,Diesel,272,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+648,38900,Firmy,2011,194000,2698,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+649,115900,Firmy,2016,89660,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+650,139900,Firmy,2017,64843,1968,Diesel,190,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+651,259900,Firmy,2020,3988,2967,Diesel,231,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+652,109990,Osoby prywatnej,2015,174100,2967,Diesel,320,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+653,35000,Osoby prywatnej,2004,298000,4163,Benzyna,334,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+654,74000,Osoby prywatnej,2015,127000,1984,Benzyna,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+655,269899,Firmy,2018,47104,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+656,24500,Osoby prywatnej,1994,216000,2800,Benzyna,180,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+657,75000,Firmy,2013,177504,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Biały,Używane
+658,50600,Firmy,2016,129545,1984,Benzyna,251,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+659,88000,Firmy,2021,8000,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+660,19900,Osoby prywatnej,2006,201457,1968,Diesel,170,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+661,64900,Osoby prywatnej,2013,230614,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+662,189900,Firmy,2020,50000,2000,Diesel,163,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+663,251900,Firmy,2021,25950,1984,Hybryda,252,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+664,225900,Firmy,2021,25484,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+665,24900,Firmy,2005,300261,2967,Diesel,225,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+666,32777,Osoby prywatnej,2009,316000,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+667,189900,Firmy,2020,149000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+668,269900,Firmy,2021,28160,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+669,269900,Firmy,2021,27363,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+670,259900,Firmy,2021,27187,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+671,243800,Firmy,2021,20546,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+672,199900,Firmy,2021,28410,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+673,16900,Osoby prywatnej,2006,368000,2393,Benzyna,177,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+674,28000,Osoby prywatnej,2007,290000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+675,26900,Firmy,2008,277000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+676,112400,Osoby prywatnej,2015,164529,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+677,13900,Firmy,2004,280000,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+678,49999,Firmy,2012,276000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+679,14900,Osoby prywatnej,2002,190000,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+680,185000,Osoby prywatnej,2019,81543,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Niebieski,Używane
+681,25900,Osoby prywatnej,2007,238000,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+682,28900,Osoby prywatnej,2008,249000,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+683,139900,Firmy,2017,84000,2000,Diesel,190,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+684,269900,Firmy,2020,24612,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+685,111000,Osoby prywatnej,2016,99540,1984,Benzyna,252,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+686,26900,Osoby prywatnej,2006,374000,2698,Diesel,180,Manualna,Na przednie koła,Sedan,Czarny,Używane
+687,5500,Osoby prywatnej,1997,313000,2600,Benzyna,150,Manualna,4x4 (stały),Sedan,Inny kolor,Używane
+688,6800,Osoby prywatnej,2002,501466,1896,Diesel,131,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+689,63499,Firmy,2012,314000,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+690,27400,Osoby prywatnej,2005,228050,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+691,73900,Osoby prywatnej,2011,184400,2967,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+692,90000,Osoby prywatnej,2014,183000,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+693,32900,Firmy,2008,295000,3000,Diesel,233,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+694,174900,Firmy,2018,99566,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+695,149000,Firmy,2018,160000,2000,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+696,229900,Firmy,2020,30052,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+697,299900,Firmy,2021,19676,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+698,274900,Firmy,2021,27928,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+699,35900,Osoby prywatnej,2010,213000,1968,Diesel,136,Manualna,Na przednie koła,Kombi,Czarny,Używane
+700,59850,Firmy,2010,144167,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+701,55999,Osoby prywatnej,2011,155000,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+702,28900,Firmy,2014,95087,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+703,25999,Firmy,2005,154000,2393,Benzyna,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+704,69700,Osoby prywatnej,2012,149971,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Czarny,Używane
+705,278500,Firmy,2022,352,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+706,24500,Osoby prywatnej,2005,235000,2393,Benzyna,177,Manualna,4x4 (stały),Kombi,Srebrny,Używane
+707,89000,Osoby prywatnej,2015,194000,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+708,103990,Firmy,2017,185000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+709,66500,Osoby prywatnej,2012,245000,2995,Benzyna,311,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+710,21900,Firmy,2005,200000,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Szary,Używane
+711,21000,Osoby prywatnej,2005,262857,3123,Benzyna,255,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+712,119000,Osoby prywatnej,2016,180000,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Brązowy,Używane
+713,29900,Osoby prywatnej,2009,240000,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+714,15000,Osoby prywatnej,2007,188669,1984,Benzyna,170,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+715,177000,Firmy,2019,149292,1984,Benzyna,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Biały,Używane
+716,249000,Osoby prywatnej,2019,118000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+717,249900,Firmy,2020,27157,2986,Diesel,286,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+718,224900,Firmy,2021,28695,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+719,173010,Firmy,2018,137310,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+720,184900,Firmy,2019,71000,1984,Benzyna,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+721,255900,Firmy,2018,60026,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Sedan,Niebieski,Używane
+722,271900,Firmy,2021,27150,2967,Diesel,286,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+723,293166,Firmy,2022,5000,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Nowe
+724,329900,Firmy,2022,5000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+725,340640,Firmy,2022,5,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Szary,Nowe
+726,231900,Firmy,2021,25000,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+727,27900,Osoby prywatnej,2008,271000,2698,Diesel,180,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+728,249900,Firmy,2018,78120,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+729,19700,Firmy,2005,193700,2698,Diesel,180,Manualna,Na przednie koła,Kombi,Szary,Używane
+730,52900,Firmy,2009,209000,2967,Diesel,240,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+731,186900,Firmy,2020,18950,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Beżowy,Używane
+732,146999,Firmy,2017,196402,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+733,26700,Firmy,2009,290000,2773,Benzyna,190,Manualna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+734,89900,Firmy,2016,86000,1984,Benzyna,252,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+735,9600,Osoby prywatnej,2001,320000,2400,Benzyna+LPG,170,Manualna,4x4 (stały),Kombi,Czarny,Używane
+736,227000,Firmy,2021,18,1968,Diesel,163,Automatyczna,Na przednie koła,Kombi,Czarny,Nowe
+737,269900,Firmy,2021,16000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+738,209900,Firmy,2018,60360,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+739,259900,Firmy,2021,21575,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+740,36900,Firmy,2010,298000,1968,Diesel,136,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+741,201900,Firmy,2020,36137,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+742,239900,Firmy,2020,27274,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+743,239900,Firmy,2020,26375,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+744,234900,Firmy,2020,23882,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+745,234900,Firmy,2020,27195,2967,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+746,9800,Osoby prywatnej,1999,178000,2393,Benzyna,170,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+747,25000,Osoby prywatnej,2005,287000,2967,Diesel,224,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+748,33900,Firmy,2008,288171,1984,Benzyna,170,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+749,28700,Osoby prywatnej,2006,317000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+750,278409,Firmy,2021,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Nowe
+751,294845,Firmy,2021,20,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+752,229800,Firmy,2020,25733,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Zielony,Używane
+753,94900,Firmy,2014,133146,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+754,224900,Firmy,2021,28870,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+755,229900,Firmy,2021,27417,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+756,219900,Firmy,2021,27392,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+757,359900,Firmy,2021,13559,2967,Diesel,245,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+758,342500,Firmy,2021,10,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Nowe
+759,48800,Firmy,2011,141000,2995,Benzyna,300,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+760,199900,Osoby prywatnej,2017,95000,2967,Diesel,326,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+761,296900,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Nowe
+762,13900,Firmy,2008,400208,1968,Diesel,140,Manualna,Na przednie koła,Sedan,Czarny,Używane
+763,300663,Firmy,2021,20,1968,Diesel,204,Automatyczna,4x4 (stały),Kombi,Szary,Nowe
+764,18000,Osoby prywatnej,2008,330000,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+765,76500,Osoby prywatnej,2013,231500,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+766,217000,Firmy,2020,27227,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+767,18950,Osoby prywatnej,2006,191000,1984,Benzyna,170,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+768,34900,Osoby prywatnej,2010,315000,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+769,209900,Firmy,2020,27950,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Niebieski,Używane
+770,209900,Firmy,2021,29307,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+771,209900,Firmy,2020,26235,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+772,209900,Firmy,2021,27008,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+773,132900,Firmy,2017,102200,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+774,269000,Osoby prywatnej,2018,36000,2995,Benzyna,340,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+775,167900,Osoby prywatnej,2017,76000,1984,Benzyna,252,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+776,66000,Osoby prywatnej,2013,192000,1968,Diesel,190,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+777,130900,Firmy,2017,168000,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+778,79900,Firmy,2014,174000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+779,18900,Osoby prywatnej,2014,197432,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+780,20950,Osoby prywatnej,2007,271000,2698,Diesel,180,Automatyczna,4x4 (dołączany automatycznie),Kombi,Srebrny,Używane
+781,64900,Osoby prywatnej,2012,242900,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+782,11999,Osoby prywatnej,2004,299900,2496,Diesel,163,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+783,35600,Osoby prywatnej,2010,240000,1968,Diesel,136,Manualna,Na przednie koła,Kombi,Czarny,Używane
+784,135000,Firmy,2019,118000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+785,28500,Osoby prywatnej,2007,280000,2967,Diesel,224,Automatyczna,4x4 (dołączany automatycznie),Sedan,Inny kolor,Używane
+786,18000,Osoby prywatnej,1997,265000,2598,Benzyna,150,Automatyczna,Na przednie koła,Kombi,Fioletowy,Używane
+787,16000,Osoby prywatnej,2002,240000,2671,Benzyna+LPG,250,Manualna,4x4 (stały),Sedan,Srebrny,Używane
+788,219900,Osoby prywatnej,2017,106000,2967,Diesel,326,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+789,72400,Firmy,2014,124000,1968,Diesel,150,Manualna,Na przednie koła,Kombi,Czarny,Używane
+790,59000,Osoby prywatnej,2013,201000,1968,Diesel,177,Manualna,Na przednie koła,Kombi,Czarny,Używane
+791,89900,Firmy,2016,211208,1968,Diesel,150,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+792,233000,Osoby prywatnej,2021,8100,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+793,7400,Osoby prywatnej,1996,388000,2461,Diesel,140,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+794,5900,Osoby prywatnej,1997,431500,1893,Diesel,90,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+795,67900,Osoby prywatnej,2012,200000,1968,Diesel,177,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+796,22500,Osoby prywatnej,2005,269000,3123,Benzyna,255,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+797,113900,Osoby prywatnej,2018,49500,1968,Diesel,190,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+798,30900,Osoby prywatnej,2008,295000,2698,Diesel,180,Automatyczna,4x4 (stały),Kombi,Czerwony,Używane
+799,55500,Firmy,2011,149000,1968,Diesel,177,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+800,17500,Osoby prywatnej,2006,238000,2393,Benzyna,177,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+801,119000,Osoby prywatnej,2016,87248,1984,Benzyna,252,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+802,139999,Osoby prywatnej,2015,155618,2967,Diesel,320,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+803,9900,Osoby prywatnej,1994,247300,1984,Benzyna,115,Manualna,Na przednie koła,Sedan,Srebrny,Używane
+804,82900,Osoby prywatnej,2015,215000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+805,44600,Osoby prywatnej,2009,171000,2995,Benzyna,290,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+806,19500,Osoby prywatnej,2001,122432,2976,Benzyna,220,Automatyczna,4x4 (stały),Kombi,Niebieski,Używane
+807,82000,Osoby prywatnej,2013,115000,2967,Diesel,204,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+808,258300,Osoby prywatnej,2018,149000,2967,Diesel,231,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+809,145900,Firmy,2017,81994,2967,Diesel,218,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+810,167900,Firmy,2018,86201,2967,Diesel,272,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+811,22800,Osoby prywatnej,2007,289000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Czarny,Używane
+812,64999,Osoby prywatnej,2012,170000,1984,Benzyna,180,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+813,25000,Osoby prywatnej,2007,287000,2967,Diesel,233,Manualna,4x4 (stały),Kombi,Srebrny,Używane
+814,41000,Osoby prywatnej,2009,247200,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Srebrny,Używane
+815,11900,Osoby prywatnej,2003,316700,2393,Benzyna+LPG,170,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+816,39900,Osoby prywatnej,2009,190000,2995,Benzyna,290,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+817,64800,Osoby prywatnej,2011,220000,2995,Benzyna,299,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+818,11899,Osoby prywatnej,1996,285000,2600,Benzyna,150,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+819,79900,Osoby prywatnej,2013,143500,1968,Diesel,177,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+820,14999,Osoby prywatnej,1997,313400,2771,Benzyna,193,Manualna,4x4 (stały),Sedan,Zielony,Używane
+821,89999,Firmy,2016,160000,1968,Diesel,150,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+822,36900,Firmy,2011,266000,2698,Diesel,190,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+823,20900,Osoby prywatnej,2004,235000,2967,Diesel,224,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+824,39900,Firmy,2009,244209,2773,Benzyna,190,Manualna,Na przednie koła,Kombi,Czarny,Używane
+825,65000,Osoby prywatnej,2013,238000,2967,Diesel,204,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+826,18000,Osoby prywatnej,2006,326206,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+827,8300,Osoby prywatnej,1998,220000,1800,Benzyna+LPG,149,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+828,21999,Osoby prywatnej,2004,199204,2393,Benzyna,177,Manualna,Na przednie koła,Sedan,Inny kolor,Używane
+829,10500,Firmy,2001,226500,2000,Benzyna+LPG,130,Manualna,Na przednie koła,Sedan,Niebieski,Używane
+830,14900,Osoby prywatnej,2003,256433,1896,Diesel,130,Manualna,Na przednie koła,Sedan,Czarny,Używane
+831,105000,Osoby prywatnej,2018,160000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Biały,Używane
+832,25900,Osoby prywatnej,2006,260000,2393,Benzyna,177,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+833,6090,Firmy,2013,249614,2967,Diesel,204,Manualna,4x4 (stały),Kombi,Czarny,Używane
+834,26000,Osoby prywatnej,2008,292430,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Szary,Używane
+835,269800,Firmy,2019,123000,2967,Diesel,286,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+836,11900,Osoby prywatnej,2000,340000,2400,Benzyna+LPG,165,Automatyczna,Na przednie koła,Kombi,Fioletowy,Używane
+837,19900,Osoby prywatnej,2008,238300,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+838,43800,Osoby prywatnej,2010,205000,2698,Diesel,190,Automatyczna,Na przednie koła,Kombi,Brązowy,Używane
+839,18800,Osoby prywatnej,2006,546000,2698,Diesel,180,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+840,25500,Firmy,2011,259000,2698,Diesel,190,Manualna,Na przednie koła,Kombi,Czarny,Używane
+841,249000,Firmy,2021,31233,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Srebrny,Używane
+842,52500,Osoby prywatnej,2012,289000,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Inny kolor,Używane
+843,29500,Osoby prywatnej,2007,229000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+844,140000,Firmy,2019,52200,2995,Benzyna,340,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Używane
+845,9000,Osoby prywatnej,2007,275000,2967,Diesel,233,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+846,99900,Firmy,2016,237000,2967,Diesel,272,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+847,119900,Firmy,2017,146600,2000,Diesel,190,Automatyczna,Na przednie koła,Sedan,Biały,Używane
+848,10500,Osoby prywatnej,1999,392421,2395,Benzyna+LPG,167,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+849,165900,Firmy,2018,126100,3000,Diesel,272,Automatyczna,4x4 (stały),Kombi,Czarny,Używane
+850,27500,Osoby prywatnej,2009,328000,1968,Diesel,136,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+851,69900,Osoby prywatnej,2013,263600,2967,Diesel,204,Automatyczna,Na przednie koła,Sedan,Brązowy,Używane
+852,245900,Firmy,2018,91300,3000,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Niebieski,Używane
+853,234900,Firmy,2021,59000,1984,Benzyna,265,Automatyczna,4x4 (stały),Sedan,Srebrny,Używane
+854,6500,Osoby prywatnej,2001,237000,1984,Benzyna+LPG,130,Automatyczna,Na przednie koła,Kombi,Inny kolor,Używane
+855,219000,Firmy,2021,27487,1968,Diesel,204,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+856,266900,Firmy,2021,17033,3000,Diesel,245,Automatyczna,4x4 (dołączany automatycznie),Kombi,Czarny,Używane
+857,175900,Firmy,2018,134900,2000,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+858,244900,Firmy,2021,28186,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Srebrny,Używane
+859,26500,Osoby prywatnej,2007,177000,2967,Diesel,233,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
+860,77500,Osoby prywatnej,2012,155000,2995,Benzyna,310,Automatyczna,4x4 (stały),Sedan,Inny kolor,Używane
+861,46800,Firmy,2010,164549,1968,Diesel,170,Automatyczna,Na przednie koła,Sedan,Szary,Używane
+862,2500,Osoby prywatnej,2000,254000,1984,Benzyna,170,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+863,35600,Osoby prywatnej,2005,167000,4163,Benzyna+LPG,334,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+864,76999,Firmy,2014,179000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+865,230010,Osoby prywatnej,2019,74000,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Biały,Używane
+866,209990,Firmy,2022,5,1968,Diesel,163,Automatyczna,Na przednie koła,Sedan,Biały,Nowe
+867,79950,Osoby prywatnej,2011,173000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Biały,Używane
+868,7500,Osoby prywatnej,2003,189961,1984,Benzyna,132,Manualna,Na przednie koła,Kombi,Niebieski,Używane
+869,95000,Osoby prywatnej,2011,184000,2967,Diesel,245,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+870,364830,Firmy,2022,5,1984,Benzyna,265,Automatyczna,4x4 (dołączany automatycznie),Sedan,Czarny,Nowe
+871,36900,Osoby prywatnej,2010,265000,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Niebieski,Używane
+872,100000,Osoby prywatnej,2013,170600,2967,Diesel,313,Automatyczna,4x4 (stały),Kombi,Inny kolor,Używane
+873,106800,Firmy,2017,215430,1968,Diesel,190,Automatyczna,4x4 (stały),Kombi,Szary,Używane
+874,301720,Firmy,2022,5,1968,Diesel,204,Automatyczna,4x4 (dołączany automatycznie),Sedan,Szary,Nowe
+875,26500,Osoby prywatnej,2007,205000,2698,Diesel,180,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+876,24700,Firmy,2004,199000,2393,Benzyna,177,Automatyczna,Na przednie koła,Sedan,Srebrny,Używane
+877,331710,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Szary,Nowe
+878,341620,Firmy,2022,1,1968,Diesel,204,Automatyczna,4x4 (stały),Sedan,Czarny,Nowe
+879,292750,Firmy,2018,48111,3000,Diesel,286,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+880,159800,Osoby prywatnej,2018,103443,1984,Benzyna,252,Automatyczna,4x4 (stały),Sedan,Szary,Używane
+881,19800,Firmy,2008,208000,2393,Benzyna,177,Manualna,4x4 (dołączany automatycznie),Sedan,Szary,Używane
+882,30000,Osoby prywatnej,2009,300000,2773,Benzyna,190,Manualna,Na przednie koła,Kombi,Czarny,Używane
+883,9900,Firmy,2002,259000,1984,Benzyna+LPG,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+884,263930,Firmy,2022,5,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Nowe
+885,239900,Firmy,2018,140500,3000,Diesel,286,Automatyczna,4x4 (dołączany automatycznie),Kombi,Szary,Używane
+886,105999,Firmy,2016,196000,1968,Diesel,190,Automatyczna,Na przednie koła,Kombi,Brązowy,Używane
+887,42400,Firmy,2011,221000,1968,Diesel,170,Automatyczna,Na przednie koła,Kombi,Czarny,Używane
+888,39900,Firmy,2010,232962,1968,Diesel,170,Manualna,Na przednie koła,Kombi,Czarny,Używane
+889,22900,Osoby prywatnej,2007,240000,1968,Diesel,140,Manualna,Na przednie koła,Kombi,Srebrny,Używane
+890,180000,Firmy,2019,52846,1968,Diesel,204,Automatyczna,Na przednie koła,Sedan,Czarny,Używane
+891,68900,Firmy,2011,225000,3000,Diesel,245,Automatyczna,4x4 (stały),Sedan,Czarny,Używane
